@@ -52,7 +52,7 @@ ORACLE_SUPPORT_PRODUCT_VERSION=8.5
 `EXTERNAL_URL="http://gitlab.example.com" dnf install -y gitlab-ce`
 
 
-\* Run this tow next commands *for oracle docker img* before move 
+\* Run the next commands *for oracle docker img* before move 
 
 ### *Docker only
 `yum install hostname`
