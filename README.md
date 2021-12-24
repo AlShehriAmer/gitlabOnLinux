@@ -4,7 +4,7 @@ Install gitlab on oracle linux
 
 - Modify ID in */etc/os_release* from `ol` to `centos` or `redhat`
 
-*The os_relaese file well be like:*
+*The os_release file well be like:*
 
 ````
 
